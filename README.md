@@ -6,6 +6,8 @@ This [functionality](https://github.com/gnachman/iTerm2/pull/283) has now been [
 
 Please use the latest iTerm instead of this repo, which will no longer be updated.
 
+Note: Make sure [this bug](https://gitlab.com/gnachman/iterm2/issues/3568#note_24249237) has been fixed _(test with Monoid)_ before deprecate it.
+
 ## Info
 
 This repo contains the patch file used to remove borders and add padding to iTerm2.
